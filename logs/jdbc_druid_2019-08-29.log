@@ -1,0 +1,32 @@
+2019-08-29 22:25:35.814 [main] INFO  cn.itspring.cloud.SpringBoot2xApplication - Starting SpringBoot2xApplication on qianchunhua with PID 4592 (D:\TOOLS\netease\NeteaseWorkspace\spring-boot-sample-svc\target\classes started by spring in D:\TOOLS\netease\NeteaseWorkspace\spring-boot-sample-svc)
+2019-08-29 22:25:35.820 [main] INFO  cn.itspring.cloud.SpringBoot2xApplication - No active profile set, falling back to default profiles: default
+2019-08-29 22:25:36.777 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.1.33] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2019-08-29 22:25:36.894 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.1.33] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2019-08-29 22:25:36.948 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 2010 (http)
+2019-08-29 22:25:36.959 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.1.33] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2019-08-29 22:25:36.966 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-29 22:25:36.967 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-08-29 22:25:37.060 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-29 22:25:37.060 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1167 ms
+2019-08-29 22:25:37.094 [main] INFO  org.apache.catalina.core.StandardContext - Suspicious URL pattern: [/**] in context [], see sections 12.1 and 12.2 of the Servlet specification
+2019-08-29 22:25:37.147 [main] WARN  com.alibaba.druid.pool.DruidAbstractDataSource - oracle.jdbc.driver.OracleDriver is deprecated.Having use oracle.jdbc.OracleDriver.
+2019-08-29 22:25:37.160 [main] ERROR com.alibaba.druid.filter.FilterManager - load filter error, filter not found : star
+2019-08-29 22:25:37.313 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-29 22:25:37.483 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 2010 (http) with context path ''
+2019-08-29 22:25:37.486 [main] INFO  cn.itspring.cloud.SpringBoot2xApplication - Started SpringBoot2xApplication in 2.155 seconds (JVM running for 3.258)
+2019-08-29 22:26:03.814 [main] INFO  cn.itspring.cloud.SpringBoot2xApplication - Starting SpringBoot2xApplication on qianchunhua with PID 4996 (D:\TOOLS\netease\NeteaseWorkspace\spring-boot-sample-svc\target\classes started by spring in D:\TOOLS\netease\NeteaseWorkspace\spring-boot-sample-svc)
+2019-08-29 22:26:03.816 [main] INFO  cn.itspring.cloud.SpringBoot2xApplication - No active profile set, falling back to default profiles: default
+2019-08-29 22:26:04.531 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.1.33] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2019-08-29 22:26:04.654 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.1.33] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2019-08-29 22:26:04.711 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 2010 (http)
+2019-08-29 22:26:04.723 [main] ERROR org.apache.catalina.core.AprLifecycleListener - An incompatible version [1.1.33] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2019-08-29 22:26:04.731 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-29 22:26:04.731 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-08-29 22:26:04.821 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-29 22:26:04.821 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 950 ms
+2019-08-29 22:26:04.855 [main] INFO  org.apache.catalina.core.StandardContext - Suspicious URL pattern: [/**] in context [], see sections 12.1 and 12.2 of the Servlet specification
+2019-08-29 22:26:04.908 [main] WARN  com.alibaba.druid.pool.DruidAbstractDataSource - oracle.jdbc.driver.OracleDriver is deprecated.Having use oracle.jdbc.OracleDriver.
+2019-08-29 22:26:04.920 [main] ERROR com.alibaba.druid.filter.FilterManager - load filter error, filter not found : star
+2019-08-29 22:26:05.072 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-29 22:26:05.240 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 2010 (http) with context path ''
+2019-08-29 22:26:05.242 [main] INFO  cn.itspring.cloud.SpringBoot2xApplication - Started SpringBoot2xApplication in 1.839 seconds (JVM running for 2.601)
